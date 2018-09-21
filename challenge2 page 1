@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Challenge two</title>
+ </head>
+
+  <body>
+  <a href=“#bottom”>bottom of the page</a>
+  <a href="basictwo.html">Click me for basic page</a>
+  <a href=“http://www.brocku.ca”>Click here for brock </a>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse magna nibh, varius at nisi eget, porttitor tristique dolor. Suspendisse fermentum vel dolor eu tincidunt. Nullam accumsan est at accumsan sollicitudin. Aenean rhoncus gravida eros, in luctus erat lacinia eget. Vestibulum a imperdiet dui. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer aliquet magna tincidunt augue placerat, non dapibus risus efficitur. Nulla nibh eros, porta eget viverra sit amet, convallis vel nisi. Phasellus velit orci, ullamcorper
+    vitae lacinia in, consectetur non nibh. Maecenas in consectetur metus, id imperdiet nisl. Nullam non orci eget nulla ultricies condimentum et in arcu. Curabitur at convallis libero. Mauris et neque quis diam pharetra mattis. Curabitur molestie vestibulum odio, eget finibus elit hendrerit quis. Aliquam consequat vulputate lacus a vestibulum. Integer ornare aliquet magna id tincidunt.
+
+In sit amet tortor dapibus, ultricies justo in, scelerisque lectus. Nullam tristique felis porta urna rhoncus dignissim. Sed semper molestie ligula et ultrices. Mauris et pretium enim, eget interdum velit. Donec malesuada dolor eget lorem ullamcorper, eget consequat libero laoreet. Duis dui tellus, vulputate eget euismod ut, consectetur aliquet ligula. Vivamus odio diam, efficitur ut faucibus et, vehicula et sem. Curabitur ultricies tempus quam a imperdiet. Mauris condimentum scelerisque nibh, vitae lacinia metus mollis ut. Maecenas imperdiet turpis mauris, eget lacinia mi sollicitudin in.
+
+Vestibulum et justo vel sem vulputate finibus. Praesent tempus augue nec erat faucibus fringilla. Nunc risus ex, fermentum at leo commodo, eleifend fringilla nisl. Curabitur eu lacus porttitor, efficitur quam at, ultrices enim. Pellentesque at lacus scelerisque metus dictum ultrices non in massa. Etiam ex metus, auctor vel risus non, hendrerit interdum magna. Ut egestas ut lacus non sagittis. Nulla eget odio congue, semper sem at, cursus odio. In vehicula cursus lacus sed condimentum. Aenean interdum dolor elit, sit amet accumsan dui porttitor vel.
+
+Curabitur dictum dolor ut odio lobortis fermentum. Quisque fermentum dignissim fringilla. Donec a porta diam, vitae posuere dolor. Duis ut sapien libero. Pellentesque blandit auctor est, eu rhoncus massa fringilla ac. Etiam vel gravida felis, vel cursus neque. Vivamus mollis ac turpis ac tincidunt. Nam vitae dui maximus, molestie nulla in, elementum massa. Nam pulvinar tortor volutpat egestas vestibulum. Mauris placerat tempus malesuada. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean et lobortis libero. Nunc vitae arcu in mauris ornare sollicitudin.
+Pellentesque dictum quam purus, vitae faucibus orci fermentum auctor. Integer vulputate, ante nec luctus malesuada, ligula leo mattis tellus, mattis volutpat neque elit quis velit.
+
+Fusce sed nibh cursus, consequat mi a, vulputate nibh. Mauris id leo porta, consequat augue sit amet, volutpat arcu. Morbi eros nisi, semper ut sodales quis, finibus ut nibh. Donec id dui vel arcu tincidunt scelerisque. Vestibulum tempor velit eget varius gravida. Suspendisse fermentum neque nisl, vel lacinia augue sollicitudin non. Morbi ut egestas nibh. Maecenas eleifend, ante id fringilla malesuada, arcu quam tristique elit, quis commodo enim massa in magna. Quisque ac justo viverra, maximus diam id, dapibus lorem. In bibendum congue rutrum.Nullam sodales iaculis eleifend.
+ Nunc vitae eros ut ligula mollis efficitur. Duis cursus congue nulla,
+vitae ultrices felis dignissim sed. Morbi bibendum, orci in sollicitudin consectetur, nulla quam blandit neque,
+ut tristique tellus quam mattis diam. </p>
+ <a name=“bottom”></a>
+  </body>
